@@ -1,0 +1,6 @@
+name: QuickSleep
+version: '${project.version}'
+main: net.alphakun.plugin.quicksleep.QuickSleep
+api-version: 1.17
+authors: [ Alpha9n ]
+description: 一瞬で寝れるし一人でも寝たら朝になる!!

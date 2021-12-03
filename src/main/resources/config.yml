@@ -1,0 +1,5 @@
+#### QuickSleep Configuration ####
+
+# Prefix,Messageを指定できます
+prefix:
+  info: '§f[§aQuickSleep§f]:§r'
